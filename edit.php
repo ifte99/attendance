@@ -72,6 +72,7 @@
         </div>
 
         <div class="d-grid">
+            <a href="viewrecords.php" class="btn btn-default ">Back to List</a>
             <button type="submit" name="submit" class="btn btn-success ">Save Changes</button>
         </div>
     </form>
